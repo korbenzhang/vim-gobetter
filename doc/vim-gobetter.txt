@@ -1,0 +1,22 @@
+*vim-gobetter.txt* Go development plugin
+*vim-gobetter*
+
+CONTENTS                                                         *go-contents*
+
+  1. Intro........................................|go-intro|
+  2. Install......................................|go-install|
+
+==============================================================================
+INTRO                                                               *go-intro*
+
+Go (golang) support for Vim. vim-gobetter make go better in vim.
+
+==============================================================================
+INSTALL                                                           *go-install*
+
+*  https://github.com/junegunn/vim-plug >
+
+    Plug 'korbenzhang/vim-gobetter'
+
+
+vim: ft=help tw=78 et ts=2 sw=2 sts=2 norl
